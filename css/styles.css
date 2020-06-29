@@ -15,7 +15,7 @@ body {
 .extra{
   min-height: 100vh;
   width: 100%;
-  background-image: url("F:/webd/front end challenges/coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg");
+  background-image: url("/images/pattern-curve.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
   display: flex;
@@ -26,7 +26,7 @@ body {
 .text-group {
   width: 120%;
   height: 400px;
-  background-image: url("F:/webd/front end challenges/coding-bootcamp-testimonials-slider-master/images/pattern-quotes.svg");
+  background-image: url("/images/pattern-quotes.svg");
   background-repeat: no-repeat;
   background-position: 19% 0%;
   color: hsl(240, 38%, 20%);
