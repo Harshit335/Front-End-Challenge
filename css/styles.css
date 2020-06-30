@@ -5,7 +5,7 @@ body {
 .main {
   min-height: 100vh;
   width: 100%;
-  background-image: url("https://github.com/Harshit335/Front-End-Challenge/blob/master/images/pattern-bg.svg");
+  background-image: url("../images/pattern-bg.svg");
   background-repeat: no-repeat;
   background-position: 85% 48%;
   display: flex;
@@ -15,7 +15,7 @@ body {
 .extra{
   min-height: 100vh;
   width: 100%;
-  background-image: url("/images/pattern-curve.svg");
+  background-image: url("../images/pattern-curve.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
   display: flex;
@@ -26,7 +26,7 @@ body {
 .text-group {
   width: 120%;
   height: 400px;
-  background-image: url("/images/pattern-quotes.svg");
+  background-image: url("../images/pattern-quotes.svg");
   background-repeat: no-repeat;
   background-position: 19% 0%;
   color: hsl(240, 38%, 20%);
@@ -117,7 +117,7 @@ body {
   .main {
     padding: 60px 35px;
     text-align: center;
-    background-image: url("F:/webd/front end challenges/coding-bootcamp-testimonials-slider-master/images/pattern-bg.svg");
+    background-image: url("../images/pattern-bg.svg");
     background-repeat: no-repeat;
     background-position: 50% 3.5%;
     background-size: 90%;
@@ -126,7 +126,7 @@ body {
   .extra{
     min-height: 100vh;
     width: 100%;
-    background-image: url("F:/webd/front end challenges/coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg");
+    background-image: url("../images/pattern-curve.svg");
     background-repeat: no-repeat;
     background-position: 0 800px;
     background-size: 90%;
@@ -143,7 +143,7 @@ body {
   .text-group {
     width: 100%;
     height: 420px;
-    background-image: url("F:/webd/front end challenges/coding-bootcamp-testimonials-slider-master/images/pattern-quotes.svg");
+    background-image: url("../images/pattern-quotes.svg");
     background-repeat: no-repeat;
     background-position: 50% 7%;
     background-size: 20%;
